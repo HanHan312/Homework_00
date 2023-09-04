@@ -5,7 +5,7 @@ public class TopicFifth {
 
 		int money = 1_500_000;
 		double rat = 1.02;
-		System.out.printf("本金+利息總共:%f", money * Math.pow(rat, 10));
+		System.out.println("本金加利息為:"+ money * Math.pow(rat, 10));
 
 	}
 
