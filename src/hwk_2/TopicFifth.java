@@ -1,6 +1,6 @@
 package hwk_2;
 
-public class Lotto {
+public class TopicFifth {
 	public static void main(String[] args) {
 
 		int f = 0;
